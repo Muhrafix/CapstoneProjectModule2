@@ -30,3 +30,13 @@ Setelah dilakukan analisa, berikut adalah sejumlah insight yang dapat diambil:
 5. Mayoritas maskapai yang memiliki jumlah klaim ***Checked Baggage*** terbanyak turut masuk ke dalam maskapai terpopuler (sering digunakan) di AS.
 
 6. Tahun 2002 menjadi tahun dengan data klaim terendah, dengan lonjakan cukup tinggi ada pada tahun 2004 dan total klaim cenderung menurun pada tahun-tahun berikutnya.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Muhammad Rafi Amiruddin JC Data Science and Machine Learning
