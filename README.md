@@ -15,7 +15,7 @@ Dari pernyataan masalah di atas, saya akan mencoba membedah lebih mendalam kepad
 - Dimana saja titik yang paling sering terjadi pelaporan klaim tersebut?
 - Bagaimana grafik jumlah klaim selama rentang tahun 2002-2015?
 
-Dalam menjawab pertanyaan di atas, saya melakukan serangkaian analisa descriptive statistic. Namun sebelum melakukan analisa terhadap data, terlebih dahulu saya melakukan tahapan *data understanding* dan data cleaning*. Hal ini dilakukan supaya data benar-benar siap untuk dilakukan analisa secara mendalam.
+Dalam menjawab pertanyaan di atas, saya melakukan serangkaian analisa descriptive statistic. Namun sebelum melakukan analisa terhadap data, terlebih dahulu saya melakukan tahapan *data understanding* dan *data cleaning*. Hal ini dilakukan supaya data benar-benar siap untuk dilakukan analisa secara mendalam.
 
 Setelah dilakukan analisa, berikut adalah sejumlah insight yang dapat diambil:
 
